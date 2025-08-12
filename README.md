@@ -7,6 +7,9 @@ https://artisan-leather-site.vercel.app/
 
 ## Preview
 ![Home (Desktop)](./screenshots/home-desktop.png)
+![Catalog (Desktop)](./screenshots/catalog-desktop.png)
+![Product (Desktop)](./screenshots/product-desktop.png)
+
 
 ## Overview
 A simple, static frontend built with Next.js (App Router) and Tailwind CSS. Products are loaded from a JSON file—no backend required. Includes Home, Catalog with category filters, Product Detail pages, About, Contact, FAQ, and Shipping & Returns.
