@@ -1,12 +1,28 @@
-# Artisan Leather & Co. — Frontend (Next.js + Tailwind)
+# Artisan Leather & Co. — Next.js + Tailwind (Frontend)
 
-A simple catalog website for a small leather brand. Built with Next.js (App Router) and Tailwind CSS.
+Catalog website for a small leather brand. Mobile-first, fast, and accessible.
 
-Getting Started:
-1) npm install
-2) npm run dev
-3) Open http://localhost:3000
+## Live Demo
+https://artisan-leather-site.vercel.app/
 
-Deploy (Vercel): push to GitHub, import in Vercel (Next.js preset).
+## Overview
+A simple, static frontend built with Next.js (App Router) and Tailwind CSS. Products are loaded from a JSON file—no backend required. Includes Home, Catalog with category filters, Product Detail pages, About, Contact, FAQ, and Shipping & Returns.
 
-Content: info@artisanco.com • +92 332 4217162 • Khadim Ali Road, Sialkot • Markets: EU, UK, USA
+## Features
+- Responsive UI (mobile-first) with a clean, minimal design  
+- Catalog with category filter (jackets / hoodies / wallets / bags)  
+- Product detail pages (generated from JSON)  
+- Mobile menu (hamburger), WhatsApp & Email CTAs  
+- Basic SEO & Open Graph image  
+- Accessibility-minded markup and keyboard navigation
+
+## Tech Stack
+- Next.js 14 (App Router), React 18, TypeScript  
+- Tailwind CSS, PostCSS, Autoprefixer  
+- Data via local JSON (no server/database)
+
+## Getting Started (Local)
+```bash
+npm install
+npm run dev
+# open http://localhost:3000
