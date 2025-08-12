@@ -25,4 +25,4 @@ A simple, static frontend built with Next.js (App Router) and Tailwind CSS. Prod
 ```bash
 npm install
 npm run dev
-# open http://localhost:3000
+open http://localhost:3000
