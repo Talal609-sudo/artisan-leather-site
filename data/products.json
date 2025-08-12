@@ -1,0 +1,226 @@
+[
+  {
+    "id": "jacket-1",
+    "slug": "jacket-1-classic-rider-jacket",
+    "title": "Classic Rider Jacket",
+    "category": "jacket",
+    "shortDescription": "Handmade jacket crafted from premium leather with durable stitching.",
+    "pricePKR": 10000,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/jacket-1.avif"
+    ]
+  },
+  {
+    "id": "jacket-2",
+    "slug": "jacket-2-vintage-bomber-jacket",
+    "title": "Vintage Bomber Jacket",
+    "category": "jacket",
+    "shortDescription": "Handmade jacket crafted from premium leather with durable stitching.",
+    "pricePKR": 9500,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/jacket-2.avif"
+    ]
+  },
+  {
+    "id": "jacket-3",
+    "slug": "jacket-3-minimal-biker-jacket",
+    "title": "Minimal Biker Jacket",
+    "category": "jacket",
+    "shortDescription": "Handmade jacket crafted from premium leather with durable stitching.",
+    "pricePKR": 9000,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/jacket-3.avif"
+    ]
+  },
+  {
+    "id": "jacket-4",
+    "slug": "jacket-4-city-traveler-jacket",
+    "title": "City Traveler Jacket",
+    "category": "jacket",
+    "shortDescription": "Handmade jacket crafted from premium leather with durable stitching.",
+    "pricePKR": 8500,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/jacket-4.avif"
+    ]
+  },
+  {
+    "id": "hoodie-1",
+    "slug": "hoodie-1-gray-lined-hoodie",
+    "title": "Gray Lined Hoodie",
+    "category": "hoodie",
+    "shortDescription": "Handmade hoodie with soft lining and comfortable fit.",
+    "pricePKR": 6300,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/hoodie-1.avif"
+    ]
+  },
+  {
+    "id": "hoodie-2",
+    "slug": "hoodie-2-brown-fleece-hoodie",
+    "title": "Brown Fleece Hoodie",
+    "category": "hoodie",
+    "shortDescription": "Handmade hoodie with soft lining and comfortable fit.",
+    "pricePKR": 6000,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/hoodie-2.avif"
+    ]
+  },
+  {
+    "id": "hoodie-3",
+    "slug": "hoodie-3-zip-up-street-hoodie",
+    "title": "Zip-Up Street Hoodie",
+    "category": "hoodie",
+    "shortDescription": "Handmade hoodie with soft lining and comfortable fit.",
+    "pricePKR": 6200,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/hoodie-3.avif"
+    ]
+  },
+  {
+    "id": "hoodie-4",
+    "slug": "hoodie-4-classic-pullover-hoodie",
+    "title": "Classic Pullover Hoodie",
+    "category": "hoodie",
+    "shortDescription": "Handmade hoodie with soft lining and comfortable fit.",
+    "pricePKR": 5800,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/hoodie-4.avif"
+    ]
+  },
+  {
+    "id": "wallet-1",
+    "slug": "wallet-1-slim-bifold-wallet",
+    "title": "Slim Bifold Wallet",
+    "category": "wallet",
+    "shortDescription": "Handmade wallet with slim profile and durable stitching.",
+    "pricePKR": 5200,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/wallet-1.jpeg"
+    ]
+  },
+  {
+    "id": "wallet-2",
+    "slug": "wallet-2-card-holder-wallet",
+    "title": "Card Holder Wallet",
+    "category": "wallet",
+    "shortDescription": "Handmade wallet with slim profile and durable stitching.",
+    "pricePKR": 3800,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/wallet-2.jpeg"
+    ]
+  },
+  {
+    "id": "wallet-3",
+    "slug": "wallet-3-traveler-passport-wallet",
+    "title": "Traveler Passport Wallet",
+    "category": "wallet",
+    "shortDescription": "Handmade wallet with slim profile and durable stitching.",
+    "pricePKR": 7000,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/wallet-3.jpeg"
+    ]
+  },
+  {
+    "id": "wallet-4",
+    "slug": "wallet-4-coin-pouch-wallet",
+    "title": "Coin Pouch Wallet",
+    "category": "wallet",
+    "shortDescription": "Handmade wallet with slim profile and durable stitching.",
+    "pricePKR": 3400,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/wallet-4.jpeg"
+    ]
+  },
+  {
+    "id": "bag-1",
+    "slug": "bag-1-vintage-leather-tote",
+    "title": "Vintage Leather Tote",
+    "category": "bag",
+    "shortDescription": "Handmade bag with robust handles and roomy interior.",
+    "pricePKR": 10000,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/bag-1.jpeg"
+    ]
+  },
+  {
+    "id": "bag-2",
+    "slug": "bag-2-compact-messenger-bag",
+    "title": "Compact Messenger Bag",
+    "category": "bag",
+    "shortDescription": "Handmade bag with robust handles and roomy interior.",
+    "pricePKR": 9800,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/bag-2.jpeg"
+    ]
+  },
+  {
+    "id": "bag-3",
+    "slug": "bag-3-everyday-crossbody-bag",
+    "title": "Everyday Crossbody Bag",
+    "category": "bag",
+    "shortDescription": "Handmade bag with robust handles and roomy interior.",
+    "pricePKR": 8200,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/bag-3.jpeg"
+    ]
+  },
+  {
+    "id": "bag-4",
+    "slug": "bag-4-weekender-duffel-bag",
+    "title": "Weekender Duffel Bag",
+    "category": "bag",
+    "shortDescription": "Handmade bag with robust handles and roomy interior.",
+    "pricePKR": 10000,
+    "badges": [
+      "Handmade"
+    ],
+    "images": [
+      "/images/products/bag-4.jpeg"
+    ]
+  }
+]
