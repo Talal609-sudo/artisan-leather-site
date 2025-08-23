@@ -16,7 +16,7 @@ export default function ProductPage({params}:Params){
           <p className="text-sm text-black/70">{product.shortDescription}</p>
           {typeof product.pricePKR==='number' && <p className="text-xl font-semibold">PKR {product.pricePKR.toLocaleString()}</p>}
           <div className="flex gap-3 pt-2">
-            <a href="https://wa.me/923324217162" className="btn btn-primary">WhatsApp to Order</a>
+            <a href="https://wa.me/10000000000" className="btn btn-primary">WhatsApp to Order</a>
             <a href="mailto:info@artisanco.com" className="btn btn-outline">Email Us</a>
           </div>
           <ul className="mt-6 list-disc pl-6 text-sm text-black/70">

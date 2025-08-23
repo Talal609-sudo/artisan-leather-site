@@ -19,7 +19,7 @@ export default function Footer(){
         <div>
           <h4 className="text-lg font-semibold">Get in touch</h4>
           <p className="mt-2 text-sm text-black/70">Questions or a custom request?</p>
-          <a href="https://wa.me/923324217162" className="mt-3 inline-block btn btn-outline">WhatsApp Us</a>
+          <a href="https://wa.me/10000000000" className="mt-3 inline-block btn btn-outline">WhatsApp Us</a>
         </div>
       </div>
       <div className="border-t border-black/10 py-4 text-center text-xs text-black/60">© {new Date().getFullYear()} Artisan Leather & Co. All rights reserved.</div>

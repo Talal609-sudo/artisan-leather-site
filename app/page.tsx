@@ -14,7 +14,7 @@ export default function HomePage() {
             <p className="text-lg text-black/70">Premium, durable leather goods made in Sialkot.</p>
             <div className="flex gap-3 pt-2">
               <Link href="/catalog" className="btn btn-primary">Explore Collection</Link>
-              <a href="https://wa.me/923324217162" className="btn btn-outline">WhatsApp Us</a>
+              <a href="https://wa.me/10000000000" className="btn btn-outline">WhatsApp Us</a>
             </div>
           </div>
           <div className="block bg-[#dddddd] p-4 rounded-xl">
@@ -47,7 +47,7 @@ export default function HomePage() {
         <div className="card p-6">
           <h3 className="text-xl font-semibold">Have a question?</h3>
           <p className="mt-2 text-sm text-black/70">Need sizing help or a custom request? Message us anytime.</p>
-          <a href="https://wa.me/923324217162" className="mt-4 inline-block btn btn-primary">WhatsApp Us</a>
+          <a href="https://wa.me/10000000000" className="mt-4 inline-block btn btn-primary">WhatsApp Us</a>
         </div>
       </section>
     </div>

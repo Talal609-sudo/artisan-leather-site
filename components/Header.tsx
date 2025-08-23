@@ -25,7 +25,7 @@ export default function Header() {
             <Link key={item.href} href={item.href} className={`nav-link ${pathname === item.href ? 'text-black' : ''}`}>{item.label}</Link>
           ))}
         </nav>
-        <Link href="https://wa.me/923324217162" className="btn btn-primary hidden md:inline-flex">
+        <Link href="https://wa.me/10000000000" className="btn btn-primary hidden md:inline-flex">
           WhatsApp
         </Link>
         <button
@@ -54,7 +54,7 @@ export default function Header() {
                 {item.label}
               </Link>
             ))}
-            <Link href="https://wa.me/923324217162" className="btn btn-primary w-full">
+            <Link href="https://wa.me/10000000000" className="btn btn-primary w-full">
               WhatsApp
             </Link>
           </div>
