@@ -6,7 +6,7 @@ export default function Footer(){
         <div>
           <h4 className="text-lg font-semibold">Artisan Leather & Co.</h4>
           <p className="mt-2 text-sm text-black/70">Khadim Ali Road, Sialkot</p>
-          <p className="mt-2 text-sm"><a href="mailto:contact@example.com" className="footer-link">info@artisanco.com</a></p>
+          <p className="mt-2 text-sm"><a href="mailto:contact@example.com" className="footer-link">contact@example.com</a></p>
         </div>
         <div>
           <h4 className="text-lg font-semibold">Support</h4>
