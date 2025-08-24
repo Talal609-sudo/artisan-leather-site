@@ -10,7 +10,7 @@ https://artisan-leather-site.vercel.app/
 ![Catalog (Desktop)](./screenshots/catalog-desktop.png)
 ![Product (Desktop)](./screenshots/product-desktop.png)
 **Mobile**
-![Home (Mobile)](./screenshots/home-mobile.png)
+![Home (Mobile)](./screenshots/home-mobile.jpeg)
 
 
 
